@@ -1,0 +1,52 @@
+.destop-menu{
+    display: flex;
+    gap: 10px;
+}
+.all{
+    display: flex;
+    justify-content: space-between;
+}
+.bll{
+    display: flex;
+    justify-content: space-between;
+}
+.dll{
+    display: flex;
+    justify-content: space-around;
+}
+.ell{
+    text-align: center;
+}
+.fll{
+    display: flex;
+    text-align: center;
+    gap: 10px;
+    justify-content: center;
+}
+.the-six{
+    display: flex;
+    justify-content: space-around;
+}
+.the-sever{
+    display: flex;
+    justify-content: space-between;
+}
+.the-nine{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.the-one{
+    display: flex;
+    justify-content: space-between;
+    height: 20px;
+    width: 20px;
+}
+.the-two{
+    background-color: black;
+    color: white;
+}
+.the{
+    display: flex;
+    justify-content: space-between;
+}
